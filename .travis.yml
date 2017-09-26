@@ -2,6 +2,7 @@ language: java
 script: mvn install
 deploy:
   provider: bintray
-  file: "descriptor.json"
-  user: "Bintray user"
-  key: "Bintray API key"
+  file: descriptor.json
+  user: jacobgeisel
+  key:
+    secure: K+3vISu+qsCFWTIhBPQon+GUFHtKjcRojlpZ+cvY+oLcg2+J52l1nfzRKGVoS7qq5tzvye49scVOt6YRpQWLpCCZTIY2SI610yvqPCr9pj/GKSeUbkajZnVsT8nwHs9uuW/n0N4RuM5ljhe3Elr6ej2UFJJEFIKuSrC9JLS9UxU1iCy3lRTeZC48wy3SaXBuOXMgWpICS6SX3vBRodrAo+TNc2GJjyV8/fl7YWuapat6hv7X3rF0FlC3hgVOjoODK1knU6DoMY7uwG4maGZladCaTGizYrAgnUREymsp6f+WVid4d3FK0+5bH2nkf7JEsuVK8uIjvvNPI8O3HioLzIjRvNF4masKK5rg0/tRxsN3a/RCJ7DYlSRHMwQ0XKZQieDiXpzlhn3fxSzRydnCj9D/mk4kxIJbg9tL4x3oaODr0wNxMUcZnLMq0QbJej5xHfbudXiSMuJTtsgzimWF6dtKhRxkzpUD9H22LHFZxEe9xiA9D2JzbPJrfM1cT3Wk0GGMJ1fRjd15YbA+GEJTozEKFbT7rwboMlL87aDCPUaMCDLt2E7T4FvNteSwB9zCRSjIoH8duWYcuUNuSVGdJOs8AlwA3ROvwqoHgaayeU+22EKu+sqGPIiiiGsTDDOER2uRNoCYBuidYPszsNckP8UgnDYCwZ1ER3jmndmF7PU=
