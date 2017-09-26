@@ -6,7 +6,7 @@
     "package": {
         "name": "travis-example", // Bintray package name
         "repo": "maven", // Bintray repository name
-        "subject": "myBintrayUser", // Bintray subject (user or organization)
+        "subject": "jacobgeisel", // Bintray subject (user or organization)
         "desc": "I was pushed completely automatically",
         "website_url": "www.jfrog.com",
         "issue_tracker_url": "https://github.com/bintray/bintray-client-java/issues",
